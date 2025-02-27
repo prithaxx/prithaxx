@@ -18,6 +18,8 @@ My name is Pritha Das and I am a fouth year Computer Science Honours student at 
 
 ## My GitHub Stats
 
-![Pritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prithaxx&show_icons=true&theme=transparent)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prithaxx&show_icons=true&theme=transparent" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithaxx&hide_progress=true&theme=transparent" width="45%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithaxx&hide_progress=true&theme=transparent)
