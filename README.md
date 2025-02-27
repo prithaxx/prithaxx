@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Nyan Cat](/Nyan.gif)
-
 My name is Pritha Das and I am a fouth year Computer Science Honours student at the 🎓 University of Manitoba 🎓. I am also doing a Minor in Statistics. My current anticipated graduation date is December 2025 🍾
 
 - 🔭 I’m currently working as a Research Assistant at the Human-Computer Interaction (HCI) lab of my university. I am developing an Interactive Data Dashboard for older adults, for easier access and visualization of data related to caregiving and care-receiving!
@@ -19,7 +17,8 @@ My name is Pritha Das and I am a fouth year Computer Science Honours student at 
 ## My GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithaxx&show_icons=true&theme=transparent" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithaxx&hide_progress=true&theme=transparent" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prithaxx&show_icons=true&theme=transparent" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithaxx&hide_progress=true&theme=transparent" width="400" height="200" />
 </p>
 
+![Nyan Cat](/Nyan.gif)
