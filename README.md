@@ -16,3 +16,6 @@ My name is Pritha Das and I am a fouth year Computer Science Honours student at 
 
 - ⚡ Fun fact: I love watching One Piece 🐒
 
+## My GitHub Stats
+
+[![Pritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prithaxx)](https://github.com/prithaxx/github-readme-stats)
