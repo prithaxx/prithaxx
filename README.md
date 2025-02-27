@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Nyan Cat](/Nyan.gif)
+
 My name is Pritha Das and I am a fouth year Computer Science Honours student at the 🎓 University of Manitoba 🎓. I am also doing a Minor in Statistics. My current anticipated graduation date is December 2025 🍾
 
 - 🔭 I’m currently working as a Research Assistant at the Human-Computer Interaction (HCI) lab of my university. I am developing an Interactive Data Dashboard for older adults, for easier access and visualization of data related to caregiving and care-receiving!
