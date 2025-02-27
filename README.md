@@ -2,7 +2,7 @@
 
 > Give me a `<br/>`
 
-<img src="/Nyan.gif" width="70%" height="400" />
+<img src="/Nyan.gif" width="100%" height="50%" />
 
 My name is Pritha Das and I am a fouth year Computer Science Honours student at the 🎓 University of Manitoba 🎓. I am also doing a Minor in Statistics. My current anticipated graduation date is December 2025 🍾
 
