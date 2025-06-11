@@ -22,7 +22,7 @@ My name is Pritha Das and I am a fouth year Computer Science Honours student at 
 ---
 
 ### 🚀 Co-Creator of `Vamoose!` — Trip Planning App 
-- Collaorated with my peers in the development and release of a Trip Planning Application ✈️ called `Vamoose!` which is available online --> [Live Demo](https://vamoose.it.com/).
+- Collaorated with my peers in the development and release of a Trip Planning Application ✈️ called `Vamoose!` 
 - If you want to see our contributions, please feel free to check out our [GitHub](https://github.com/ramanbhandari/vamoose)
 
 ---
