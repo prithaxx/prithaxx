@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-> Gara-Neow! (-Nekomamushi, One Piece)
+> I don't remember the face of every insect I crush
+> <br> - Dracule Mihawk (One Piece)
 
-<img src="/neko.gif" width="100%" height="500%" />
+<img src="/mihawk.gif" width="100%" height="100%" />
 
 My name is Pritha Das and I am a fouth year Computer Science Honours student at the 🎓 University of Manitoba 🎓. I am also doing a Minor in Statistics. My current anticipated graduation date is December 2025 🍾
 
 ---
 
 ### 💼 Developer Intern @ Kalpa Inc. (Currently)
-- 💻 Currently contributing to the development of a **Warehouse Management System (WMS)** platform using **PHP, Laravel,** and **NetSuite** alongside an incredible team.
-- My responsibilities span **sprint planning, agile sprint management,** and hands-on **product development**.
+- 💻 Currently contributing to the full-stack development of a **Warehouse Management System (WMS)** platform using **PHP, Laravel,** and **NetSuite** alongside an incredible team.
+- My responsibilities span **sprint planning, agile sprint management,**, hands-on **product development** and **project management**.
 - I’m also undergoing training to step into a **Scrum Master** role, with a focus on team leadership and agile best practices.
 
 ---
@@ -22,7 +23,8 @@ My name is Pritha Das and I am a fouth year Computer Science Honours student at 
 ---
 
 ### 🚀 Co-Creator of `Vamoose!` — Trip Planning App 
-- Collaorated with my peers in the development and release of a Trip Planning Application ✈️ called `Vamoose!` 
+- Collaorated with my peers in the development and release of a Trip Planning Application ✈️ called `Vamoose!`
+- Please feel free to check it our live: [Vamoose!](https://vamoose.it.com) 
 - If you want to see our contributions, please feel free to check out our [GitHub](https://github.com/ramanbhandari/vamoose)
 
 ---
@@ -35,8 +37,8 @@ My name is Pritha Das and I am a fouth year Computer Science Honours student at 
 
 - 📫 Please reach out to me on my email `prithadas3008@gmail.com` or feel free to drop a message on my [website](https://prithaxx.github.io/)
 
-- ⚡ Fun fact: I love watching One Piece 🐒
-  - Controversial Opinion: Mihawk > Shanks (sorry)
+- ⚡ Fun fact: I love watching One Piece 🐒 and making theories about EOS.
+  - Controversial Opinion: Mihawk > Shanks (sorry... not really)
 
 ## My GitHub Stats
 
