@@ -39,9 +39,8 @@ My name is Pritha Das and I am a final year Computer Science Honours student at 
 - ⚡ Fun fact: I love watching One Piece 🐒 and making theories about EOS.
   - Controversial Opinion: Mihawk > Shanks 
 
-## My GitHub Stats
 
-<p float="left">
+<!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=prithaxx&show_icons=true&theme=transparent" width="400" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithaxx&hide_progress=true&theme=transparent" width="400" height="200" />
-</p>
+</p> -->
