@@ -5,6 +5,7 @@
 > "Hawkeye" Dracule Mihawk (One Piece, Eichiro Oda)
 
 My name is Pritha Das and I'm a recent Computer Science (Hons.) grad from the 🎓 University of Manitoba 🎓. I also have a minor in Statistics. 
+
 I am currently looking for a full-time role as a **Software Developer (Backend / Frontend / Full-Stack)**
 
 ---
