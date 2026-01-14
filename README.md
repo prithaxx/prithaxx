@@ -4,21 +4,29 @@
 
 > "Hawkeye" Dracule Mihawk (One Piece, Eichiro Oda)
 
-My name is Pritha Das and I am a final year Computer Science Honours student at the 🎓 University of Manitoba 🎓. I also have a minor in Statistics. My current anticipated graduation date is **December 2025** 🍾
+My name is Pritha Das and I'm a recent Computer Science (Hons.) grad from the 🎓 University of Manitoba 🎓. I also have a minor in Statistics. 
+I am currently looking for a full-time role as a **Software Developer (Backend / Frontend / Full-Stack)**
 
 ---
 
-### 💼 Junior Software Developer @ Kalpa Inc. (Currently)
-- 💻 Currently contributing to the full-stack development of a **Warehouse Management System (WMS)** platform using **PHP, Laravel,** and **NetSuite** alongside an incredible team.
-- My responsibilities span **sprint planning, agile sprint management,**, hands-on **end-to-end product development** and **project management**.
-- I’m also undergoing training to step into a **Scrum Master** role, with a focus on team leadership and agile best practices.
+### 💼 Junior Software Developer @ Kalpa Inc. 
+- Contributed as the primary developer to the **full-stack development** of a WMS platform using **PHP/Laravel**, **JavaScript** and **MSSQL**.
+- Implemented **backend RESTful API endpoints**, **database schemas** and integrated the endpoints with existing ERP systems like **NetSuite**.
+- Wrote **unit & feature tests** with **Pest** & **PHPUnit** and performed code reviews to ensure code quality and consistency throughout.
+- Set up **CI/CD pipeline** using **GitHub Actions** for rigorous testing and consistency, and built frontend views using **Blade**.
+- Created technical documentation including **ER, UML & architecture diagrams**, **test plans** and **API documentation**.
+
+### 👩🏻‍🏫 Project Manager Intern @ Kalpa Inc.
+- Contributed as a **Project Manager & Scrum Master** for the development of a custom WMS platform.
+- Particpated in daily stand-ups and assisted in sprint planning and task breakdown and prioritization. Solely managed and setup the GitHub repository with project border, stories, task tracking, and time allocations.
+- Conducted competitor analysis on different ERP systems; contacted companies directly for pricing and feature comparisons. Provided insights from competitor analysis ti influence internal prodyct features and roadmap decisions.
 
 ---
 
 ### 🔬 Web Developer & Research Assistant @ UManitoba HCI Lab  
-- Worked on the **web development** of an interactive Data Dashboard for older adults, for easier access and visualization of data related to caregiving and care-receiving!
-- Organized and led **focus groups** to gather feedback from target audience and also presented my work in presentation competitions.
-
+- Handled the full-stack development of an age-friendly Interactive Data Dashboard using **Shiny App, R, Python and HTML/CSS**, for older adults, for easier access and visualization of data related to caregiving and care-receiving impacts.
+- Performed detailed data analysis using a complex dataset taken from Statistics Canada which revealed that women tend to provide more care than men, and care receivers significantly prefer female caregivers over male caregivers.
+- Refined the dashboard based on feedback from older adults gathered from focus groups, improving technical efficiency significantly and incorporating server-side storage for personalized data.
 ---
 
 ### 🚀 Co-Creator of `Vamoose!` — Trip Planning App 
@@ -31,9 +39,7 @@ My name is Pritha Das and I am a final year Computer Science Honours student at 
 ### Personal Growth & Goals
   
 - 👯 I’m looking to collaborate on projects related to Full-Stack Development, Web Development, Distributed Systems, Data Analysis, and Cloud Computing!
-
 - ✏️ My hobbies include sketching, drawing, and painting. I can spend hours painting and vibing to Taylor Swift simultaneously!
-
 - 📫 Please reach out to me on my email `prithadas3008@gmail.com` or feel free to drop a message on my [website](https://prithaxx.github.io/)
 
 - ⚡ Fun fact: I love watching One Piece 🐒 and making theories about EOS.
