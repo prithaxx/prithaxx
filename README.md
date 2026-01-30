@@ -10,6 +10,12 @@ I'm a recent graduate from the 🎓 University of Manitoba 🎓 with a **Bachelo
 
 ---
 
+
+### 💻 Associate Developer, Engineering @ Norima
+*(Feb 2026 - Present)*
+
+---
+
 ### 💼 Junior Software Developer @ Kalpa Inc. 
 *(May 2025 - Dec 2025)*
 - Served as the primary developer to the **full-stack development** of a WMS platform using **PHP/Laravel**, **JavaScript** and **MySQL**.
