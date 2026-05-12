@@ -14,6 +14,21 @@ I'm a recent graduate from the 🎓 University of Manitoba 🎓 with a **Bachelo
 ### 💻 Associate Developer, Engineering @ Norima
 *(Feb 2026 - Present)*
 
+#### Developer @ New York Life Insurance
+
+* Built a greenfield Investment Proposal Tool using **React** and **.NET** to manage proposal workflows from creation to submission.
+* Used **GitHub Copilot**, **AI pair-programming**, and **spec-driven development** to generate reusable UI components and scalable APIs.
+* Improved **frontend architecture**, **state management**, and UI consistency by refactoring redundant code and resolving major styling issues.
+* Refactored a monolithic API with **200+ endpoints** into **four domain-specific services** with dedicated controllers for improved scalability and maintainability.
+
+#### Developer @ Fiduciary Exchange (FIDx)
+
+* Built an **Angular** review queue POC for a fintech workflow platform handling multi-state compliance review processes.
+* Leveraged **Cursor** and **GitHub Copilot** to accelerate development and improve engineering efficiency.
+* Created structured **Markdown specifications** to guide AI-generated UI and functionality with minimal manual coding.
+* Migrated features into an existing codebase while following established **architecture standards** and resolving complex UI edge cases manually.
+
+
 ---
 
 ### 💼 Junior Software Developer @ Kalpa Inc. 
