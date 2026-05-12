@@ -11,7 +11,7 @@ I'm a recent graduate from the 🎓 University of Manitoba 🎓 with a **Bachelo
 ---
 
 
-### 💻 Associate Developer, Engineering @ Norima
+### 💻 Associate Consultant, Engineering @ Norima Consulting
 *(Feb 2026 - Present)*
 
 #### Developer @ New York Life Insurance
